@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNzw5gFOeGlHBTl4VmAGvM9JPx22MAZt+NvSSA5/Q7TchvD62Ch3Cz/1mnD6E6oP3h/iu4xex9rTpQSWW7YJPQ==",
+  "success": true,
+  "projectFilePath": "D:\\7. Projeto Site Odonto\\Clioff.Web\\Clioff.Web\\Clioff.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bccsi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
