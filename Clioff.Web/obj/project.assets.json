@@ -106,11 +106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\7. Projeto Site Odonto\\Clioff.Web\\Clioff.Web\\Clioff.Web.csproj",
+      "projectUniqueName": "D:\\2. Projetos Pessoais\\1. Site Clioff\\Site\\Clioff.Web\\Clioff.Web.csproj",
       "projectName": "Clioff.Web",
-      "projectPath": "D:\\7. Projeto Site Odonto\\Clioff.Web\\Clioff.Web\\Clioff.Web.csproj",
+      "projectPath": "D:\\2. Projetos Pessoais\\1. Site Clioff\\Site\\Clioff.Web\\Clioff.Web.csproj",
       "packagesPath": "C:\\Users\\bccsi\\.nuget\\packages\\",
-      "outputPath": "D:\\7. Projeto Site Odonto\\Clioff.Web\\Clioff.Web\\obj\\",
+      "outputPath": "D:\\2. Projetos Pessoais\\1. Site Clioff\\Site\\Clioff.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
