@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cNzw5gFOeGlHBTl4VmAGvM9JPx22MAZt+NvSSA5/Q7TchvD62Ch3Cz/1mnD6E6oP3h/iu4xex9rTpQSWW7YJPQ==",
+  "dgSpecHash": "6/HvckJXQx40+2oJAB3iYdkrJF0vupQBGo9ZbEUdox3bjVGq3fn+Qea3jhPBgYPsZM3ATbHiLn6lOJQEZ3jnbQ==",
   "success": true,
-  "projectFilePath": "D:\\7. Projeto Site Odonto\\Clioff.Web\\Clioff.Web\\Clioff.Web.csproj",
+  "projectFilePath": "D:\\2. Projetos Pessoais\\1. Site Clioff\\Site\\Clioff.Web\\Clioff.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bccsi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],
